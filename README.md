@@ -30,12 +30,12 @@ To generate types, type `npm generate-types` on the command line and you'll find
 
 ## Themes customization & enabling dark mode (--prefers-dark)
 
-- Enabling dark mode
-  To enable dark mode (media query), open `global.css` in the index directory & add `dark --prefersdark` on the `@plugin daisyui` configuration
-  .
+**Enabling dark mode**<br>
+To enable dark mode (media query), open `global.css` in the index directory & add `dark --prefersdark` on the `@plugin daisyui` configuration
+.
 
-- Theme customization
-  For customizations, feel free to visit [daisy UI documentation](https://daisyui.com/docs/config/)
+**Theme customization**<br>
+For customizations, feel free to visit [daisy UI documentations](https://daisyui.com/docs/config/)
 
 ## Scripts
 
