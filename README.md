@@ -9,7 +9,7 @@ Simply clone this repository by typing `git clone https://github.com/dlord213/vi
 ## Features
 
 - Vite with React (TypeScript) template
-- Tailwind CSS v4.1 with TailwindCSS prettier plugin for quick sorting classes + daisyUI for primitives/basic
+- Tailwind CSS v4.1 with TailwindCSS prettier plugin for quick sorting classes + daisyUI for commonly used components (especially forms & buttons)
 - TanStack Query, Zustand ( + immer for easy data traversal) for queries/mutations state managements & global stores/hooks
 - Axios for HTTP client & handling promises
 - PocketBase for backend/database with minimal global store setup `(/hooks/usePocketBase.tsx)` + PocketBase TypeGen
