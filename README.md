@@ -4,7 +4,7 @@ This template provides a minimal setup for Vite (React-TS) with React Router (De
 
 ## Installation
 
-Simply clone this repository or type `npx degit dlord213/vite-pocketbase-template` in the command line and then `npm install` to install the dependencies.
+Simply clone this repository by typing `git clone https://github.com/dlord213/vite-pocketbase-template.git` in the command line and then `npm install` to install the dependencies.
 
 ## Features
 
